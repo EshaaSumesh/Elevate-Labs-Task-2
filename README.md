@@ -15,7 +15,7 @@ This project focuses on analyzing a suspicious phishing email sample to identify
 
 ## 📁 Email Sample Analyzed
 
-- **File:** `phish.eml`
+- **File:** `phish.eml` , source :https://github.com/rf-peixoto/phishing_pot/tree/main
 - **Impersonated Brand:** Microsoft
 - **Main Claim:** "Unusual sign-in activity detected on your Microsoft account"
 - **Sender Email:** `sotrecognizd@gmail.com` (used in all embedded mailto: links)
